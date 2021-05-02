@@ -2,7 +2,7 @@
 Shifts-scheduling system with human resources functionalities in Java
 
 ## Story
-Things started when I worked at a warehouse while waiting for my military process, to be processed. At the time, we need to schedule out break every month with certain rules. Mainly, no more than 2 forklift drivers, and 4 regular workers can take break at the same day. Sunday we don't work, and you choose on day from Monday to Saturday.
+Things started when I worked at a warehouse while waiting for my military process, to be processed. At the time, we need to schedule our breaks every month with certain rules. Mainly, no more than 2 forklift drivers, and 4 regular workers can take break at the same day. Sunday we don't work, and you choose on day from Monday to Saturday.
 
 Process is like this: eveyone line-up at the manager's desk, and declare what days you intend to take break for the next month. The manager will mark your break on a printed table for everyone. Then the manager figure out which days break the rule, and decide who need to give up the break on that day, and re-choose thr break. After all, the manger will publish the final break schedule for next month.
 
