@@ -5,6 +5,8 @@ import java.time.YearMonth;
 import java.util.*;
 
 public class WorkCalender extends HashMap<Integer, List<Integer>[][]> implements java.io.Serializable{
+    private static final long serialVersionUID = 1L;
+
     // Key: YYYYMM
     // Value: [days]{forklift_shift, normal_shift, forklift_break, normal_break}
     public WorkCalender(){

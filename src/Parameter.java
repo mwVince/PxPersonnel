@@ -2,6 +2,7 @@ import java.io.Serializable;
 
 // Used as configuration for the application
 public class Parameter implements Serializable {
+    private static final long serialVersionUID = 1L;
     private int adminID;
     private String adminPassword;
     private int currentMonth;

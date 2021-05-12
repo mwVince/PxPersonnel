@@ -1,4 +1,5 @@
 public class Employee implements java.io.Serializable{
+    private static final long serialVersionUID = 1L;
     private int ID;
     private String password;
     private boolean manager;

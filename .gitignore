@@ -1,3 +1,7 @@
+# IntelliJ IDE
+.idea/
+*.iml
+
 # Compiled class file
 *.class
 
@@ -27,4 +31,7 @@ db/
 
 # Playground
 Try.java
+
+# MacOs System File
+.DS_Store
 

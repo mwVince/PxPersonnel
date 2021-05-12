@@ -4,6 +4,7 @@ import java.io.Serializable;
 import java.util.HashMap;
 
 public class CalenderCell implements Serializable {
+    private static final long serialVersionUID = 1L;
     private Integer id; // List of ID for particular record
     private HashMap<Integer, Double> overtime; // List to record overtime hours for each employee
 
